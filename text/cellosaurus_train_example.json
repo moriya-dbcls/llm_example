@@ -1,5 +1,4 @@
 [
- [
   {
     "input":"What is the identifier in the cellosaurus ontology for '#132 PC3-1-SC-E8'?",
     "output":"CVCL_B0T9"
@@ -39,7 +38,28 @@
   },  {
     "input":"Please tell us about '066MD-CUMC/INSERM'.",
     "output":"066MD-CUMC/INSERM is a induced pluripotent stem cell of Homo sapiens (Human) described in the cellosaurus ontology, and its identifier is CVCL_IJ16. It has the following synonym: 066MD. 066MD-CUMC/INSERM is derived from Skin. Its cell type is Fibroblast of skin."
-  }, 
+  }, {
+    "input":"Please tell us about '100-2#1'.",
+    "output":"100-2#1 is a induced pluripotent stem cell of Homo sapiens (Human) described in the cellosaurus ontology, and its identifier is CVCL_T868. It has the following synonym: 100-2 #1. 100-2#1 is derived from Skin, dermis. Its cell type is Fibroblast of skin."
+  },  {
+    "input":"What is the identifier in the cellosaurus ontology for 100-310?",
+    "output":"CVCL_N280"
+  },  {
+    "input":"Please tell us about '100-310'.",
+    "output":"100-310 is a hybridoma (cell line) of Mus musculus (Mouse) described in the cellosaurus ontology, and its identifier is CVCL_N280. Patent cell line is Sp2/0-Ag14 (CVCL_2199)."
+  },  {
+    "input":"What is the identifier in the cellosaurus ontology for 1000T?",
+    "output":"CVCL_A1ZY"
+  },  {
+    "input":"Please tell us about '1000T'.",
+    "output":"1000T is a cancer cell line of Homo sapiens (Human) described in the cellosaurus ontology, and its identifier is CVCL_A1ZY. 1000T is derived from Bone marrow."
+  },  {
+    "input":"What is the identifier in the cellosaurus ontology for 100213 LQT2 theta10?",
+    "output":"CVCL_T915"
+  },  {
+    "input":"Please tell us about '100213 LQT2 theta10'.",
+    "output":"100213 LQT2 theta10 is a induced pluripotent stem cell of Homo sapiens (Human) described in the cellosaurus ontology, and its identifier is CVCL_T915."
+  },
 ...
 ..
 .
