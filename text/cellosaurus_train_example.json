@@ -1,0 +1,45 @@
+[
+  {
+    "input":"What is the identifier in the cellosaurus ontology for '#132 PC3-1-SC-E8'?",
+    "output":"CVCL_B0T9"
+  },  {
+    "input":"What is the typical name for Z48-5MG-70?",
+    "output":"'#132 PC3-1-SC-E8'"
+  },  {
+    "input":"Please tell us about ''#132 PC3-1-SC-E8''.",
+    "output":"'#132 PC3-1-SC-E8' is a hybridoma (cell line) of Mus musculus (Mouse) described in the cellosaurus ontology, and its identifier is CVCL_B0T9. It has the following synonym: Z48-5MG-70. Patent cell line is HL-1 Friendly Myeloma-653 (CVCL_D145)."
+  },  {
+    "input":"What is the identifier in the cellosaurus ontology for '#132 PL12 SC-D1'?",
+    "output":"CVCL_B0T8"
+  },  {
+    "input":"What is the typical name for Z48-5MG-63?",
+    "output":"'#132 PL12 SC-D1'"
+  },  {
+    "input":"Please tell us about ''#132 PL12 SC-D1''.",
+    "output":"'#132 PL12 SC-D1' is a hybridoma (cell line) of Mus musculus (Mouse) described in the cellosaurus ontology, and its identifier is CVCL_B0T8. It has the following synonym: Z48-5MG-63. Patent cell line is HL-1 Friendly Myeloma-653 (CVCL_D145)."
+  },  {
+    "input":"What is the identifier in the cellosaurus ontology for '#15310-LN'?",
+    "output":"CVCL_E548"
+  },  {
+    "input":"What is the typical name for 15310-LN; TER461; TER-461; Ter 461; TER479; TER-479; Ter 479; Extract 519?",
+    "output":"'#15310-LN'"
+  },  {
+    "input":"Please tell us about ''#15310-LN''.",
+    "output":"'#15310-LN' is a transformed cell line of Homo sapiens (Human) described in the cellosaurus ontology, and its identifier is CVCL_E548. It has the following synonym: 15310-LN; TER461; TER-461; Ter 461; TER479; TER-479; Ter 479; Extract 519. '#15310-LN' is derived from Peripheral blood. Its cell type is B-cell."
+  },  {
+    "input":"What is the identifier in the cellosaurus ontology for '#16-15'?",
+    "output":"CVCL_KA96"
+  },  {
+    "input":"Please tell us about ''#16-15''.",
+    "output":"'#16-15' is a hybridoma (cell line) of Mus musculus (Mouse) described in the cellosaurus ontology, and its identifier is CVCL_KA96. Patent cell line is P3X63Ag8.653 (CVCL_4032)."
+  },  {
+    "input":"What is the identifier in the cellosaurus ontology for '#40a'?",
+    "output":"CVCL_IW91"
+  },  {
+    "input":"Please tell us about ''#40a''.",
+    "output":"'#40a' is a cancer cell line of Mus musculus (Mouse) described in the cellosaurus ontology, and its identifier is CVCL_IW91. '#40a' is derived from Peritoneum. Patent cell line is 40 (CVCL_IW90)."
+  },
+...
+..
+.
+
