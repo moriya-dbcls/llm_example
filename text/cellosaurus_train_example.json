@@ -1,4 +1,5 @@
 [
+ [
   {
     "input":"What is the identifier in the cellosaurus ontology for '#132 PC3-1-SC-E8'?",
     "output":"CVCL_B0T9"
@@ -21,24 +22,24 @@
     "input":"What is the identifier in the cellosaurus ontology for '#15310-LN'?",
     "output":"CVCL_E548"
   },  {
-    "input":"What is the typical name for 15310-LN; TER461; TER-461; Ter 461; TER479; TER-479; Ter 479; Extract 519?",
-    "output":"'#15310-LN'"
+    "input":"Please tell us about '059-1.82.1'.",
+    "output":"059-1.82.1 is a hybridoma (cell line) of Mus musculus (Mouse) described in the cellosaurus ontology, and its identifier is CVCL_C4MJ. Patent cell line is P3X63Ag8.653 (CVCL_4032)."
   },  {
-    "input":"Please tell us about ''#15310-LN''.",
-    "output":"'#15310-LN' is a transformed cell line of Homo sapiens (Human) described in the cellosaurus ontology, and its identifier is CVCL_E548. It has the following synonym: 15310-LN; TER461; TER-461; Ter 461; TER479; TER-479; Ter 479; Extract 519. '#15310-LN' is derived from Peripheral blood. Its cell type is B-cell."
+    "input":"What is the identifier in the cellosaurus ontology for 066?",
+    "output":"CVCL_Y448"
   },  {
-    "input":"What is the identifier in the cellosaurus ontology for '#16-15'?",
-    "output":"CVCL_KA96"
+    "input":"Please tell us about '066'.",
+    "output":"066 is a undefined cell line type of Mesocricetus auratus (Golden hamster) described in the cellosaurus ontology, and its identifier is CVCL_Y448."
   },  {
-    "input":"Please tell us about ''#16-15''.",
-    "output":"'#16-15' is a hybridoma (cell line) of Mus musculus (Mouse) described in the cellosaurus ontology, and its identifier is CVCL_KA96. Patent cell line is P3X63Ag8.653 (CVCL_4032)."
+    "input":"What is the identifier in the cellosaurus ontology for 066MD-CUMC/INSERM?",
+    "output":"CVCL_IJ16"
   },  {
-    "input":"What is the identifier in the cellosaurus ontology for '#40a'?",
-    "output":"CVCL_IW91"
+    "input":"What is the typical name for 066MD?",
+    "output":"066MD-CUMC/INSERM"
   },  {
-    "input":"Please tell us about ''#40a''.",
-    "output":"'#40a' is a cancer cell line of Mus musculus (Mouse) described in the cellosaurus ontology, and its identifier is CVCL_IW91. '#40a' is derived from Peritoneum. Patent cell line is 40 (CVCL_IW90)."
-  },
+    "input":"Please tell us about '066MD-CUMC/INSERM'.",
+    "output":"066MD-CUMC/INSERM is a induced pluripotent stem cell of Homo sapiens (Human) described in the cellosaurus ontology, and its identifier is CVCL_IJ16. It has the following synonym: 066MD. 066MD-CUMC/INSERM is derived from Skin. Its cell type is Fibroblast of skin."
+  }, 
 ...
 ..
 .
