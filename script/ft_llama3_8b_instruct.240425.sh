@@ -2,7 +2,7 @@ model_path=NousResearch/Meta-Llama-3-8B-Instruct
 dataset_name=cellosaurus_train.json
 out_dir=cellosaurus_llama3_8b_ft
 
-python3 ./tmp_script/qlora/qlora.py \
+python3 qlora.py \
     --model_name_or_path $model_path \
     --output_dir $out_dir \
     --eval_dataset_size 200 \
